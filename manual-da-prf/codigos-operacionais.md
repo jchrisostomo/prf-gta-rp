@@ -1,0 +1,9 @@
+---
+icon: siren-on
+---
+
+# Códigos Operacionais
+
+Esses códigos são utilizados para descrever situações de maneira simplificada, agilizando a comunicação.
+
+<table data-header-hidden><thead><tr><th width="105"></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Código</strong></td><td><strong>Descrição</strong></td><td><strong>Observações</strong></td></tr><tr><td><strong>0</strong></td><td>Saída para patrulhamento. Pronta para qualquer QRU ou QRR.</td><td>-</td></tr><tr><td><strong>1</strong></td><td>Baixa intensidade na QRU (abordagem de rotina).</td><td>- NÃO algemar, revistar ou apontar arma.</td></tr><tr><td><strong>2</strong></td><td>QRU de média intensidade. Suspeita de ocultação facial, uso de coldre, colete, direção perigosa, arma na bandoleira ou insulfilm escuro.</td><td>- Liberado algemar, revistar e apontar arma, se necessário.<br>- Mochilas não são critério para abordagem.</td></tr><tr><td><strong>3</strong></td><td>Denúncia ou flagrante de crime. Uso de força não letal.</td><td>- Liberado tiro no pneu em caso de <strong>powergaming</strong> ou atropelamento.<br>- Não há limite de tempo para acompanhamento.</td></tr><tr><td><strong>4</strong></td><td>Área sob controle.</td><td>-</td></tr><tr><td><strong>5</strong></td><td>Fogo aberto. Troca de tiros colocando a vida em risco (seja com arma ou veículo).</td><td>- Proibido trocar tiros em "pista" ou área populosa. Violação resulta em prisão administrativa ("Ilha").</td></tr><tr><td><strong>6</strong></td><td>Área sob investigação ("360"). Verificação de feridos ou bandidos abatidos no local.</td><td>- Importante levar os bandidos abatidos ao hospital para reanimação e efetuar a prisão.</td></tr><tr><td><strong>7</strong></td><td>Solicitação de unidade de operações especiais (PRF chama a GRR).</td><td>-</td></tr></tbody></table>
