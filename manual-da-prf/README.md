@@ -1,5 +1,6 @@
 ---
 icon: book
+hidden: true
 layout:
   title:
     visible: true
