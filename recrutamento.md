@@ -16,7 +16,7 @@ icon: user-police-tie
 1. **Cadastro Conscrito**:
    * Preencher o formulário de inscrição no canal [#cadastro-conscrito](https://discord.gg/rR8tCbw5tB) do Departamento de Polícia da Cidade Nobre.
 2. **Prova:**
-   * Assistir a [videoaula ](ttps://www.youtube.com/live/qTZrZ-vyS3s)e realizar a prova (link da prova está na descrição do vídeo).
+   * Assistir a [videoaula ](https://www.youtube.com/live/qTZrZ-vyS3s)e realizar a prova (link da prova está na descrição do vídeo).
    * Solicitar a correção de prova no canal [#correção-do-recrutamento](https://discord.gg/4mvWnYXJSD) da PRF Cidade Nobre.
 3. **Entrevista**:
    * Vestir fardamento de conscrito (utilize o comando _roupas_ no F8):
